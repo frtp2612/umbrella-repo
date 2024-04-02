@@ -1,0 +1,6 @@
+[submodule "umbrella-repo-ui"]
+	path = umbrella-repo-ui
+	url = git@github.com:frtp2612/umbrella-repo-ui.git
+[submodule "umbrella-repo-api"]
+	path = umbrella-repo-api
+	url = git@github.com:frtp2612/umbrella-repo-api.git
